@@ -1,5 +1,13 @@
 import './css/style.css';
 
-import './js/app';
+import './js/Bowerman';
 
-// TODO: write your code in app.js
+import './js/Swordsman';
+
+import './js/Magician';
+
+import './js/Daemon';
+
+import './js/Undead';
+
+import './js/Zombie';
